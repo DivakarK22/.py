@@ -1,2 +1,6 @@
-print ('Hello')
+print ('Hello Whats your Name :')
 spam = input()
+print ('Whats your Age')
+spam2 = input()
+print ( 'Welcome '  + spam)
+print ('GOOD BYE '  + spam2)
